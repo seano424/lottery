@@ -1,0 +1,18 @@
+.Lottery {
+  display: flex;
+  justify-content: center;
+}
+
+.Button {
+  background-color: palevioletred;
+  color: white;
+  padding: 1.2rem;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
+
+.Button:focus {
+  outline: none;
+}
